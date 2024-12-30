@@ -1,0 +1,5 @@
+batchCode,medicineCode,medicineTypeCode,weight,price,refrigeration,errorMessages
+BTC-0006,MC-305,C,5000,5000,TRUE,No shipping charge found for the given medicine type and weight range
+BTC-9988,MC-322,S,1600,3000,TRUE,Medicine code does not exist.
+BTC-1221,MC-305,A,500,1500.5,TRUE,Medicine type code does not exist.
+BTC9999,MC-305,C,1444.4,1500.5,TRUE,Batch code is not in the correct format (BTC-)followed by 4 digits. Batch Code given :BTC9999
